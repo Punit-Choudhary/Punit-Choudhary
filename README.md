@@ -1,7 +1,7 @@
 ![Profile banner](https://github.com/Punit-Choudhary/Punit-Choudhary/blob/main/GithubBanner.png)
 # Hi there 👋
 
-### I am Punit Choudhary, 17 year old Geek who dreams in code! 
+### I am Punit Choudhary, 17 year old Geek who dreams in code!<br/> #SelfTaught
 ## 🔭 I’m currently working on 
 #### Sharpening my skills mainly machine learning and Ethical Hacking
 ## 🌱 I’m currently learning 
