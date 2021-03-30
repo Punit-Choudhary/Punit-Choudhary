@@ -1,4 +1,6 @@
 ![Profile banner](https://github.com/Punit-Choudhary/Punit-Choudhary/blob/main/GithubBanner.png)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Punit-Choudhary.visitor-badge)
 # Hi there 👋
 
 ### I am Punit Choudhary, 17 year old Geek who dreams in code!<br/> #SelfTaught
