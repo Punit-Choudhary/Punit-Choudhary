@@ -1,4 +1,4 @@
-![Profile banner](https://github.com/Punit-Choudhary/Punit-Choudhary/blob/main/GithubBanner.png)
+![Profile banner](https://github.com/Punit-Choudhary/Punit-Choudhary/blob/main/ProfileBanner.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Punit-Choudhary.visitor-badge)
 # Hi there 👋
