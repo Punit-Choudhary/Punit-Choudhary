@@ -22,7 +22,8 @@
 <br>
 Email Id: [itspunitchoudhary@gmail.com](mailto:itspunitchoudhary@gmail.com)
 <br>
-Website: [Blog](https://punitchoudhary.medium.com/)
+Website: [PragmaticProgrammer](http://pragmaticprogrammer.in)
+Blog: [Read Blog](https://punitchoudhary.medium.com/)
 <br>
 Tryhackme: https://tryhackme.com/p/h4x0r47
 <br>
