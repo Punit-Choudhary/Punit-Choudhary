@@ -26,7 +26,7 @@ Website: [Blog](https://punitchoudhary.medium.com/)
 <br>
 Tryhackme: https://tryhackme.com/p/h4x0r47
 <br>
-![](h4x0r47.png)
+![](badge.png)
 
 ## Github Stats..
 
