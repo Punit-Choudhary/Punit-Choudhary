@@ -18,7 +18,7 @@
 
 
 ## 📫 How to reach me:
-<a href="https://www.instagram.com/dad_of_evil/"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/punit-choudhary-6784101b4/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/dad_of_evil/"><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/punit-choudhary/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <br>
 Email Id: [itspunitchoudhary@gmail.com](mailto:itspunitchoudhary@gmail.com)
 <br>
