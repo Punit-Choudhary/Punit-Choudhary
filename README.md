@@ -5,9 +5,9 @@
 
 ### I am Punit Choudhary, 17 year old Geek who dreams in code!<br/> #SelfTaught
 ## 🔭 I’m currently working on 
-#### Sharpening my skills mainly machine learning and Ethical Hacking
+#### Sharpening my skills mainly Data Science and Ethical Hacking
 ## 🌱 I’m currently learning 
-#### Python, Data Science, Machine Learning
+#### Python, Data Science
 ## 👯 I’m looking to collaborate on 
 #### As much opensource repositories as I can! 
 ## ⚡ Fun fact about me
