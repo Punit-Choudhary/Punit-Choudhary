@@ -35,7 +35,7 @@ Tryhackme: https://tryhackme.com/p/h4x0r47
 ## Github Stats..
 
 ![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punit-choudhary&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punit-choudhary&theme=radical)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punit-choudhary&theme=radical)
 <a href="https://github.com/Punit-Choudhary/Alien-Invasion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=punit-choudhary&repo=Alien-Invasion&theme=radical" />
 </a>
