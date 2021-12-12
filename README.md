@@ -22,9 +22,9 @@
 <br>
 Email Id: [punit@pragmaticprogrammer.in](mailto:punit@pragmaticprogrammer.in)
 <br>
-Portfolios: [Minimal](https://punit-choudhary.github.io/Landing_page/), [LinkTree Clone](https://links.punitchoudhary.repl.co/)
+Personal Websites: [Portfolio](http://punit.pragmaticprogrammer.in), [Social Media Handles](https://links.punitchoudhary.repl.co/)
 <br>
-Website: [PragmaticProgrammer](http://pragmaticprogrammer.in)
+Professional Website: [PragmaticProgrammer](http://pragmaticprogrammer.in)
 <br>
 Blog: [Read Blog](https://punitchoudhary.medium.com/)
 <br>
