@@ -5,9 +5,9 @@
 
 ### I am Punit Choudhary, 18 year old Geek who dreams in code!<br/> #SelfTaught
 ## 🔭 I’m currently working on 
-#### Sharpening my skills mainly Data Analysis
+#### Sharpening my skills mainly Deep Learning
 ## 🌱 I’m currently learning 
-#### Python, Data Science
+#### Deep Learning, ReactJS & React Native
 ## 👯 I’m looking to collaborate on 
 #### As much opensource repositories as I can! 
 ## ⚡ Fun fact about me
