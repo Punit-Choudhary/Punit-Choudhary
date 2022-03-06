@@ -31,6 +31,7 @@ Blog: [Read Blog](https://punitchoudhary.medium.com/)
 Tryhackme: https://tryhackme.com/p/h4x0r47
 <br>
 ![](badge.png)
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/yrIfXFaMQ4ujG3IRxt3MQw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/yrIfXFaMQ4ujG3IRxt3MQw/image"></a><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"></p></blockquote>
 
 ## Github Stats..
 
@@ -42,7 +43,6 @@ Tryhackme: https://tryhackme.com/p/h4x0r47
 <a href="https://github.com/Punit-Choudhary/WifiPasswordScrapper">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=punit-choudhary&repo=WifiPasswordScrapper&theme=radical" />
 </a>
-
 
 <!--
 **Punit-Choudhary/Punit-Choudhary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
