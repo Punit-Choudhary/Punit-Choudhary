@@ -3,11 +3,11 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Punit-Choudhary.visitor-badge)
 # Hi there 👋
 
-### I am Punit Choudhary, 18 year old Geek who dreams in code!<br/> #SelfTaught
+### I am Punit Choudhary, 19 year old Geek who dreams in code!<br/> #SelfTaught
 ## 🔭 I’m currently working on 
 #### Sharpening my skills mainly Deep Learning
 ## 🌱 I’m currently learning 
-#### Deep Learning, ReactJS & React Native
+#### Deep Learning, ReactJS & TypeScript
 ## 👯 I’m looking to collaborate on 
 #### As much opensource repositories as I can! 
 ## ⚡ Fun fact about me
