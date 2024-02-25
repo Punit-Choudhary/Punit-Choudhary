@@ -3,13 +3,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Punit-Choudhary.visitor-badge)
 # Hi there 👋
 
-### I am Punit Choudhary, 20 years old Geek who dreams in code!<br/> #SelfTaught
+### I am Punit Choudhary, 20-year-old Geek who dreams in code!<br/> #SelfTaught
 ## 🔭 I’m currently working on 
-#### Sharpening my skills mainly Deep Learning
+#### Sharpening my skills mainly in Deep Learning
 ## 🌱 I’m currently learning 
 #### Deep Learning, ReactJS & TypeScript
 ## 👯 I’m looking to collaborate on 
-#### As much opensource repositories as I can! 
+#### As many Opensource repositories as I can! 💜
 ## ⚡ Fun fact about me
 #### I love to pwn machines 😈👽
 
@@ -35,8 +35,8 @@ Tryhackme: https://tryhackme.com/p/h4x0r47
 
 ## Github Stats..
 
-![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punit-choudhary&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punit-choudhary&theme=radical)
+![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punit-choudhary&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punit-choudhary&theme=radical&count_private=true&include_all_commits=true) -->
 <a href="https://github.com/Punit-Choudhary/Alien-Invasion">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=punit-choudhary&repo=Alien-Invasion&theme=radical" />
 </a>
